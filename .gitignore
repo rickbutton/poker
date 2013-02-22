@@ -1,2 +1,3 @@
 .DS_Store
 eval/allfive
+*.o
