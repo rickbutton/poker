@@ -27,6 +27,6 @@ If that value was within a certain threshold, we would play more aggressively.
 
 Credits
 
-@scottopell for writing the other half of the code, and doing math things.
+[Scott Opell](http://github.com/scottopell) for writing the other half of the code, and doing math things.
 
 Thanks to Enova for running a really fun hackathon.
